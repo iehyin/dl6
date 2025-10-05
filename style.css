@@ -1,0 +1,180 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+    display: block;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+header {
+    padding: 20px;
+    width: 100%;
+}
+.head {
+    margin: 0;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+.head__in {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.head__in--logo {
+    width: 200px;
+    height: 60px;
+    background-color: #E2E2E2;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.head__in--menu {
+    height: 34px;
+    width: 820px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E2E2E2;
+    font-weight: 700;
+    font-size: 20px;
+}
+.head__in--button {
+    height: 42px;
+    width: 120px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E2E2E2;
+    font-weight: 700;
+    font-size: 20px;
+}
+.section1 {
+    width: 100%;
+    height: 680px;
+    background-color: #F1F1F1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.content {
+    width: 585px;
+    height: 267px;
+    background-color: #E2E2E2;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image {
+    width: 585px;
+    height: 520px;
+    background-color: #E2E2E2;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section2 {
+    text-align: center;
+    padding: 50px;
+}
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2 {
+    height: 50px;
+    width: 500px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E2E2E2;
+    font-weight: 700;
+    font-size: 20px;
+}
+.list-item {
+    gap: 15px;
+    padding: 50px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 400px);
+}
+.Item {
+    height: 400px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E2E2E2;
+    font-weight: 700;
+    font-size: 20px;
+}
+.section3 {
+    text-align: center;
+    padding: 50px;
+    background-color: #F1F1F1;
+}
+.list-item2 {
+    gap: 15px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Item2 {
+    height: 250px;
+    width: 600px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E2E2E2;
+    font-weight: 700;
+    font-size: 20px;
+}
+.section4 {
+    text-align: center;
+    padding: 50px;
+}
+.list-item3 {
+    gap: 15px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Item3 {
+    height: 250px;
+    width: 600px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E2E2E2;
+    font-weight: 700;
+    font-size: 20px;
+}
+footer {
+    width: 100%;
+    height: 60px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E2E2E2;
+    font-weight: 700;
+    font-size: 20px;
+}
