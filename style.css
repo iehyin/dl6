@@ -93,7 +93,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 20px 300px;
+    margin: 20px;
 }
 h2 {
     height: 50px;
