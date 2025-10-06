@@ -18,10 +18,10 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px;
+    gap: 40px;
 }
 .head__in--logo {
-    width: 200px;
+    width: 250px;
     height: 60px;
     background-color: #E2E2E2;
     font-weight: 700;
@@ -33,7 +33,7 @@ header {
 }
 .head__in--menu {
     height: 34px;
-    width: 820px;
+    width: 880px;
     border-radius: 8px;
     display: flex;
     justify-content: center;
@@ -44,7 +44,7 @@ header {
 }
 .head__in--button {
     height: 42px;
-    width: 120px;
+    width: 200px;
     border-radius: 8px;
     display: flex;
     justify-content: center;
@@ -60,11 +60,11 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px;
+    gap: 40px;
     padding: 40px 40px;
 }
 .content {
-    width: 585px;
+    width: 700px;
     height: 250px;
     background-color: #E2E2E2;
     font-weight: 700;
@@ -75,7 +75,7 @@ header {
     align-items: center;
 }
 .image {
-    width: 585px;
+    width: 700px;
     height: 520px;
     background-color: #E2E2E2;
     font-weight: 700;
@@ -107,13 +107,13 @@ h2 {
     font-size: 20px;
 }
 .list-item {
-    gap: 20px;
+    gap: 40px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(2, 350px);
+    grid-template-rows: repeat(2, 450px);
 }
 .Item {
-    height: 350px;
+    height: 450px;
     border-radius: 8px;
     display: flex;
     justify-content: center;
@@ -128,7 +128,7 @@ h2 {
     background-color: #F1F1F1;
 }
 .list-item2 {
-    gap: 20px;
+    gap: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -149,7 +149,7 @@ h2 {
     padding: 20px 40px 40px 40px;
 }
 .list-item3 {
-    gap: 20px;
+    gap: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
