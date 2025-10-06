@@ -11,14 +11,14 @@ header {
 }
 .head {
     margin: 0;
-    padding: 20px 20px;
+    padding: 40px 40px;
     box-sizing: border-box;
 }
 .head__in {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 30px;
+    gap: 20px;
 }
 .head__in--logo {
     width: 200px;
@@ -55,17 +55,17 @@ header {
 }
 .section1 {
     width: 100%;
-    height: 680px;
+    height: 600px;
     background-color: #F1F1F1;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 30px;
-    padding: 78px 30px;
+    gap: 20px;
+    padding: 40px 40px;
 }
 .content {
     width: 585px;
-    height: 267px;
+    height: 250px;
     background-color: #E2E2E2;
     font-weight: 700;
     font-size: 20px;
@@ -73,7 +73,6 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* margin-left: 30px; */
 }
 .image {
     width: 585px;
@@ -85,20 +84,20 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* margin-right: 30px; */
 }
 .section2 {
     text-align: center;
-    padding: 50px;
+    padding: 20px 40px 40px 40px;
 }
 .title {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 20px 300px;
 }
 h2 {
     height: 50px;
-    width: 500px;
+    width: 600px;
     border-radius: 8px;
     display: flex;
     justify-content: center;
@@ -108,14 +107,13 @@ h2 {
     font-size: 20px;
 }
 .list-item {
-    gap: 15px;
-    padding: 50px;
+    gap: 20px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(2, 400px);
+    grid-template-rows: repeat(2, 350px);
 }
 .Item {
-    height: 400px;
+    height: 350px;
     border-radius: 8px;
     display: flex;
     justify-content: center;
@@ -126,19 +124,18 @@ h2 {
 }
 .section3 {
     text-align: center;
-    padding: 50px;
+    padding: 20px 40px 40px 40px;
     background-color: #F1F1F1;
 }
 .list-item2 {
-    gap: 15px;
-    padding: 50px;
+    gap: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .Item2 {
-    height: 250px;
-    width: 600px;
+    height: 350px;
+    width: 400px;
     border-radius: 8px;
     display: flex;
     justify-content: center;
@@ -149,18 +146,17 @@ h2 {
 }
 .section4 {
     text-align: center;
-    padding: 50px;
+    padding: 20px 40px 40px 40px;
 }
 .list-item3 {
-    gap: 15px;
-    padding: 50px;
+    gap: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .Item3 {
-    height: 250px;
-    width: 600px;
+    height: 450px;
+    width: 400px;
     border-radius: 8px;
     display: flex;
     justify-content: center;
